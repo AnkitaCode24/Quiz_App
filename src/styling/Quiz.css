@@ -1,0 +1,53 @@
+body {
+  background-color: aquamarine;
+}
+.header {
+  background-color: #129878;
+  margin: 0;
+  padding: 10px;
+  background-size: cover;
+  width: 100%;
+}
+
+.header h1 {
+  text-align: center;
+}
+
+.Main-box {
+  background-color: blue;
+  margin-top: 50px;
+  height: 50vh;
+}
+.que-section {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 30px;
+}
+.ans-section {
+  border: 1px solid green;
+  padding: 20px;
+}
+
+button {
+  margin-bottom: 10px;
+  border-radius: 25px;
+  padding: 10px 10px;
+  background-color: gray;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  color: white;
+  font-size: 22px;
+}
+button:hover {
+  transition: 0.4s;
+  background-color: white;
+  color: black;
+}
+.score-section h1 {
+  color: green;
+  font-size: 52px;
+  text-align: center;
+  margin-top: 50px;
+}
